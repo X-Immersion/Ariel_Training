@@ -7,19 +7,13 @@ Recording your voice properly is crucial for producing high-quality audio conten
 - **Microphone**: Choose a good quality microphone. If you have a crapy microphone, don't waste your time recording yourself.
 
 Here are some samples for good audio recordings:
+ 
 
-<audio controls>
-  <source src="assets/audio/sample_1.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-<audio controls>
-  <source src="assets/audio/sample_2.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-<audio controls>
-  <source src="assets/audio/sample_3.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/user-attachments/assets/06225ceb-4921-4811-b8da-f52e9fa350db
+
+https://github.com/user-attachments/assets/ccd2d0bf-7f8d-4cfc-ac1f-ff25cde348cc
+
+https://github.com/user-attachments/assets/cbde7060-ba47-4090-b44d-cba7e64ff870
 
 
 - **Pop Filter**: Reduces plosive sounds.
