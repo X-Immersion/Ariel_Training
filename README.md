@@ -48,6 +48,8 @@ You have two options:
 
 > Make sure to stop between each line for 1-2 seconds.
 
+> Be creative! If you have fun ideas for sentences, just say whatever you want. You can also add natural sounds whenever you want e.g. Clearing Throat, Shouting ... 
+
 ### Sad
 
 | Emotion   | Sentence                                                                 |
