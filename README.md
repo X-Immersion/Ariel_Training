@@ -9,15 +9,15 @@ Recording your voice properly is crucial for producing high-quality audio conten
 Here are some samples for good audio recordings:
 
 <audio controls>
-  <source src="files/sample_1.wav" type="audio/wav">
+  <source src="assets/audio/sample_1.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 <audio controls>
-  <source src="files/sample_2.wav" type="audio/wav">
+  <source src="assets/audio/sample_2.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 <audio controls>
-  <source src="files/sample_3.wav" type="audio/wav">
+  <source src="assets/audio/sample_3.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
