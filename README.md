@@ -8,6 +8,10 @@ Recording your voice properly is crucial for producing high-quality audio conten
 
 Here are some samples for good audio recordings:
  
+<video width="320" height="240" controls>
+  <source src="assets/audio/sample_1.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 https://github.com/user-attachments/assets/06225ceb-4921-4811-b8da-f52e9fa350db
 
